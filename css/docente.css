@@ -1,0 +1,20 @@
+body{
+    background-color:whitesmoke;
+    
+
+}
+
+#title-1{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
+    background-color:#ec5353;
+    padding: 20px;
+    color: white;
+}
+#im{
+    width: 330px;
+    height: 80px;
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 5px;
+}
